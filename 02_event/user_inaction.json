@@ -1,0 +1,8 @@
+{
+  "event": "hesitation_detected | decision_pause | back_and_forth_scroll",
+  "timestamp": 1710000000,
+  "context": {
+    "confidence": 0.82,
+    "detected_pattern": "scroll_pause_then_cursor_still"
+  }
+}
