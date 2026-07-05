@@ -1,0 +1,9 @@
+{
+  "event": "validation_error | api_error | network_error",
+  "timestamp": 1710000000,
+  "context": {
+    "error_code": "401",
+    "field": "email",
+    "severity": "low | medium | high"
+  }
+}
