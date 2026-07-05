@@ -1,9 +1,0 @@
-{
-  "event": "mouse_move | scroll | click | keypress | touch",
-  "timestamp": 1710000000,
-  "context": {
-    "page": "/dashboard",
-    "element": "null | button_id | input_field",
-    "velocity": "low | medium | high"
-  }
-}

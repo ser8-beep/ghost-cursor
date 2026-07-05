@@ -1,7 +1,0 @@
-{
-  "event": "focus_gain | focus_loss | tab_hidden | tab_visible",
-  "timestamp": 1710000000,
-  "context": {
-    "visibility_state": "visible | hidden"
-  }
-}
