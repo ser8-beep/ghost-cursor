@@ -1,0 +1,8 @@
+{
+  "event": "session_start | session_resume | session_idle | session_end",
+  "timestamp": 1710000000,
+  "context": {
+    "is_returning_user": true,
+    "session_depth": 3
+  }
+}
